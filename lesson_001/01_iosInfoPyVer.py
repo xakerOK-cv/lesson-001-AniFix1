@@ -2,6 +2,7 @@
 # TODO закомітити результат його роботи. Файл os_info.txt. Добавити до Git(не забувати)
 # OK
 
+# sdvcjhsadbv
 # -*- coding: utf-8 -*-
 
 
